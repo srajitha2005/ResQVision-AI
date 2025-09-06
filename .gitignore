@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large model files
+*.pt
+*.pth
+*.h5
+*.onnx
+*.weights
+
+# Media files (too big for GitHub)
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wav
+*.mp3
+
+# Project-specific folders
+dataset/
+runs/
+uploaded_videos/
+videoss/
+output/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
