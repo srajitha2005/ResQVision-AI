@@ -1,8 +1,6 @@
 streamlit
-opencv-python
-torch
+opencv-python-headless
 numpy
-pandas
-Pillow
 ultralytics
-mediapipegit add requirements.txt
+mediapipe
+streamlit-lottie
